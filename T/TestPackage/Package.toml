@@ -1,0 +1,4 @@
+authors = ["Juergen Fuhrmann <juergen.fuhrmann@wias-berlin.de>"]
+name = "TestPackage"
+repo = "git@github.com:j-fu/TestPackage.jl.git"
+uuid = "f96ef79c-9624-42ef-94ca-9c037a44f2be"
